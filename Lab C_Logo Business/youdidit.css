@@ -1,0 +1,112 @@
+
+html { height:100.1%; line-height:.9em}
+BODY {
+	font-size: 13px;
+	background: red;
+	font-family: Tahoma, Arial, Geneva;
+	color: #707172;
+	margin:0px auto 0 auto;
+	text-align:center;
+	line-height:13px;
+}
+
+a { color:#0f4898; text-decoration:underline}
+a:hover  { color:#5892b0} 
+
+#wrapper { width:950px; margin:0 auto; overflow:hidden; box-shadow: 0px 0px 20px 10px black;
+	background-color: black;}
+
+#container1 { width:968px; height:321px}
+
+#int-container { font-size:20px;padding:5px 20px;line-hieght:50px; width:968px; height:127px}
+
+#banner { font family:100% "Life Savers", cursive;font-size: 20px; width:968px; margin:0 auto;}
+
+
+#template-left {width:606px; height:321px; float:left}
+
+#logo {background:url(images/logo.png) no-repeat; width:606px; height:115px}
+
+#packages { width:606px; height:206px; float:left}
+
+#five-package {width:280px; height:206px; float:left}
+
+#ten-package {width:326px; height:206px; float:right}
+
+#featured-templates {background:url(images/featured-templates.png) no-repeat; width:362px; height:321px; float:right}
+
+#nav-bar {background-color:#707172; width:968px; height:74px}
+
+#stretch-slice {background:url(images/stretch-slice.png) repeat-y; width:968px; height:100%}
+
+.container2 { background:#edefee; width:900px; height:192px; padding:15px}
+.content { background:#edefee; width:900px; padding:15px}
+
+.template-frame {background:url(images/template-frame.png) no-repeat; width:180px; height:210px; float:left}
+.template-frame2 {background:url(images/template-frame.png) no-repeat; width:180px; height:210px; float:left; position:relative}
+.template-frame3 {background:url(images/template-frame.png) no-repeat; width:180px; height:210px; float:left; position:relative}
+.template-frame4 {background:url(images/template-frame.png) no-repeat; width:180px; height:210px; float:left; position:relative}
+.template-frame5 {background:url(images/template-frame.png) no-repeat; width:180px; height:210px; float:right}
+
+#template-upperframe {background:url(images/template-upperframe.png) no-repeat; width:168px; height:152px}
+
+.border {border:1px solid #cacaca}
+
+.nav-area {color:white; font-size:18px; font-weight:bold; padding-top:32px; padding-left:44px}
+
+a.nav-link:link{color:white; text-decoration:none}
+a.nav-link:visited{color:white; text-decoration:none}
+a.nav-link:hover{color:#5892b0; text-decoration:none}
+
+a.template-link:link{color:#fff; text-decoration:none}
+a.template-link:visited{color:#fff; text-decoration:none}
+a.template-link:hover{color:#fff; text-decoration:underline}
+
+.description {color:#ffffff; font-size:11px; font-weight:bold}
+.template-item {color:#ffffff; font-size:11px; font-weight:bold}
+
+
+
+h2 { color:#fff; font-size:16px; font-weight:normal; text-decoration:none; padding:0; margin:0 }
+h3 { color:#4f5050; font-size:14px; font-weight:bold; text-decoration:none; padding:0; margin:0 }
+
+
+
+.small-text {color: #868686; font-size:9px}
+
+.current-page { color:#4985B9; text-decoration:none}
+
+#template-links {width:880px; height:10px; background-color:#f5f6f6; border:#b1b1b1 solid 1px; padding:8px; padding-bottom:12px}
+#template-left {width:440px; height:10px; float:left}
+#template-right {width:440px; height:10px; float:right}
+
+#rightside { width:375px; float:right; border:1px solid #ccc; background:#fff; padding:12px; margin:0 22px 0 0}
+#rightside2 { width:375px; float:right; border:1px solid #ccc; background:#fff; padding:12px; margin:0 10px 0 0}
+#templateLeftside { background:#eceeee; width:545px; float:left; margin:0; text-align:center}
+
+#grey-bg4 {background:#eceeee; width:968px; height:850px}
+
+
+.image-outer {border:1px solid #ccc}
+
+.blue { color:#0F4898}
+.black { color:#555}
+.templates-green { color:#6f9b32; padding:0; font-size:12px; font-weight:bold; text-decoration:underline }
+
+.text { color: #4f5050}
+
+
+/* Footer */
+footer {
+	background: #dde5ff;
+	clear: both;
+	padding: 5px 10px 10px;
+	
+}
+
+footer p {
+
+	font-size: 1em;
+	margin: 0;
+	
+}	
