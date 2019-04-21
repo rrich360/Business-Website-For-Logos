@@ -1,2 +1,2 @@
 # Business-Website-For-Logos
-This website includes logo and graffiti that I've created years ago for a company called Mobile Solutions, llc.
+This project includes example of logos and also an actual graffiti project that I accomplished for my family member's company called Mobile Solutions, LLC.
